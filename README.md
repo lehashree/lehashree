@@ -1,35 +1,53 @@
 # Hi 👋 I'm Lehashree Srinivasan
 
-💻 Full-Stack Developer | AI/ML Enthusiast
-🎓 BE CSE Student
-🚀 Building impactful web applications & smart AI solutions
+🎓 Third Year Computer Science Engineering Student at St. Joseph's Institute of Technology
+💻 Full-Stack Developer | AI/ML Enthusiast | Open Source Learner
+🚀 Passionate about building impactful web applications and intelligent systems
 
 ---
 
 ## 💫 About Me
 
-🌱 Exploring Full Stack Development & AI
-⚡ Passionate about Web Development and Problem Solving
-💡 Turning ideas into real-world projects
-🚀 Learning, building, and growing every day
+💼 Aspiring Software Developer with strong interest in Full Stack Development and Artificial Intelligence
 
-✨ “Code with creativity. Build with purpose.”
+⚙️ Exploring modern web technologies, automation systems, and AI-powered applications
+
+🧠 Building real-world projects focused on usability, problem solving, and innovation
+
+🌱 Currently enhancing skills in React, Node.js, MongoDB, and Machine Learning
+
+🚀 Interested in Web Development, AI/ML, Open Source, and Cloud Technologies
+
+✨ “Innovation meets execution — that’s where I code best.”
+
+🪄 Code. Learn. Build. Repeat.
 
 ---
 
 ## 🌐 Connect With Me
 
 * GitHub: https://github.com/lehashree
-* LinkedIn: https://www.linkedin.com/in/lehashreesrinivasan/
-* Email: lehashreesrinivasan@gmail.com
+* Email: [lehashreesrinivasan@gmail.com](mailto:lehashreesrinivasan@gmail.com)
 
 ---
 
-## 💻 Tech Stack
+## 💻 Technical Skills
 
-HTML • CSS • JavaScript • Python • PHP • MySQL
-Bootstrap • Git • GitHub • Firebase • Figma
-React • Node.js • MongoDB
+### Programming Languages
+
+HTML5 • CSS3 • JavaScript • Python • PHP • SQL
+
+### Web Development
+
+Bootstrap • Responsive Web Design • Firebase • Netlify • Vercel
+
+### Tools & Platforms
+
+Git • GitHub • Figma • MySQL • MongoDB
+
+### Currently Exploring
+
+React.js • Node.js • AI/ML • Open Source Contributions
 
 ---
 
@@ -37,38 +55,37 @@ React • Node.js • MongoDB
 
 ### 🌱 Eco Habit Tracker
 
-A web app promoting sustainable and eco-friendly daily habits.
+A web-based application designed to encourage sustainable living and eco-friendly daily habits through habit tracking and awareness features.
 
-🔗 https://github.com/lehashree/eco-habit-tracker
+🔗 Repository:
+https://github.com/lehashree/eco-habit-tracker
+
+---
 
 ### ❤️ Heart Disease Prediction System
 
-A Machine Learning-based healthcare project developed to predict the possibility of heart disease using patient medical data and intelligent analysis techniques.
+A Machine Learning-based healthcare application developed to predict heart disease risks using patient medical data and intelligent analysis techniques.
 
-🔗 https://github.com/lehashree/Heart-Disease-Prediction
+🔗 Repository:
+https://github.com/lehashree/Heart-Disease-Prediction
+
 ---
 
 ## 🏆 Achievements
 
-🏅 Web Development Intern
-🏅 Python & ML Intern
-🏅 Open Source Contributor
-🏅 Hackathon & Coding Contest Participant
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=lehashree\&theme=tokyonight\&show_icons=true)
+🏅 Completed Web Development Internship
+🏅 Completed Python & Machine Learning Internship
+🏅 Active GitHub Contributor
+🏅 Participating in Coding Contests & Hackathons
+🏅 Building AI & Web-Based Projects
 
 ---
 
 ## 🔥 GitHub Streak
 
-![](https://streak-stats.demolab.com/?user=lehashree\&theme=tokyonight)
+![](https://streak-stats.demolab.com/?user=lehashree\&theme=tokyonight\&hide_border=false)
 
 ---
 
 ⭐ Thanks for visiting my profile!
-
-
+💙 Let's connect, collaborate, and build amazing projects together 🚀
