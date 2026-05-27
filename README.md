@@ -26,6 +26,7 @@
 
 ## 🌐 Connect With Me
 
+* Linkedin: https://www.linkedin.com/in/lehashreesrinivasan/
 * GitHub: https://github.com/lehashree
 * Email: [lehashreesrinivasan@gmail.com](mailto:lehashreesrinivasan@gmail.com)
 
