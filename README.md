@@ -21,7 +21,7 @@
 
 * GitHub: https://github.com/lehashree
 * LinkedIn: https://www.linkedin.com/in/lehashreesrinivasan/
-* Email: [yourmail@gmail.com](mailto:yourmail@gmail.com)
+* Email: lehashreesrinivasan@gmail.com
 
 ---
 
