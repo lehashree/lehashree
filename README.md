@@ -43,8 +43,9 @@ A web app promoting sustainable and eco-friendly daily habits.
 
 ### ❤️ Heart Disease Prediction System
 
-ML-based system for predicting heart disease risks using health data.
+A Machine Learning-based healthcare project developed to predict the possibility of heart disease using patient medical data and intelligent analysis techniques.
 
+🔗 https://github.com/lehashree/Heart-Disease-Prediction
 ---
 
 ## 🏆 Achievements
